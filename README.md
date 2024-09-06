@@ -5,7 +5,7 @@
 </p>
 
 
-<img align="right" alt="GIF" src="https://github.com/DevVora0308/Dev-Vora/blob/main/code.gif?raw=true" width="500" height="340" />
+<img align="right" alt="GIF" src="https://github.com/DevVora0308/DevVora0308/blob/main/code.gif?raw=true" width="500" height="340" />
 
 - 🤖 I am a Graduate student pursuing a Master's in Computer Science from Rutgers University, New Brunswick.
 
